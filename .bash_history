@@ -108,3 +108,65 @@ yum install tree
 amzon tree
 aws tree
 clear
+yum install git
+git --version
+ls -al
+git init.
+git init .
+ls -al
+touch aws linux devops
+ls -l
+git add aws
+git status
+  cat>aws
+cat>linux
+git status
+touch aws
+cat>aws
+rm aws
+rm -rf aws
+ls -l
+touch aws
+ls -l
+cat>aw
+cat>aws
+git status
+git commit -m 'ya allah vo bachi ke mamu ke dil mai mohabaat dalo allah' aws
+ git log
+git commit -m "ya allah vo bachi ke mamu ke dil mai mohabaat dalo allah" aws
+git commit - m "ya allah vo bachi ke mamu ke dil mai mohabaat dalo allah" aws
+ls -l
+gid add devops linux
+git add devops linux
+git status
+ls -l
+git commit - m "2 files commited " . 
+git commit -m "2 files commited " . 
+git status
+touch file{6..10}.txt
+ls -l
+git add*
+git add *
+git status
+git add.
+git add .
+git status
+ git log
+git commit -m "all files committed" . 
+ls -l
+cat>linux
+git commit -m "all files committed" . 
+git log
+git config user.name"musthafa"
+git config user.email"musthafa5457@gmail.com0"
+git log
+ls -l
+cat>>linux
+git commit -m "msg" linux 
+got log
+git log
+git commit -m "msg" linux 
+git commit -m " msg "  linux 
+cat>linux
+git commit -m " msg "  linux 
+git log
