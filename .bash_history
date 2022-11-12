@@ -170,3 +170,75 @@ git commit -m " msg "  linux
 cat>linux
 git commit -m " msg "  linux 
 git log
+ls -l
+cat>>linux
+git commit -m " msg "  linux 
+git log
+ git log --oneline
+vim .gitignore
+touch musthafa python java
+ ls -l
+git add *
+vim .gitignore
+git add *
+git add musthafa
+git status
+rm -rf *
+ls -l
+git commit -m " remove all files " .
+ touch devops{1..5}.txt
+ touch devops{1..5}.png
+ touch devops{1..5}.jpg
+vim .gitignore
+git add *
+git status
+vim .gitignore
+git add *
+git status
+ls -l
+git stash list
+git stash
+ll
+git stash apply
+ git add*
+ git add * 
+ll
+git stash 
+ll
+git stash list
+git stash pop
+git stash list
+git stash pop
+git stash list
+git stash clear
+git stash list
+git log
+git log -2
+ git show a23c4e1de049e34e468e14533f0e1f247100546c --name-only
+git branch
+git branch musthafa
+git branch
+git checkout musthafa
+  ll
+git checkout musthafa
+ll
+touch musthafafile{1..5}
+ll
+git checkout master
+ ll
+git branch devops
+git branch
+git checkout devops
+ll
+git branch -d musthafa
+git branch
+git branch - devops
+git branch -devops
+git branch -d  devops
+git checkout master
+git branch -d  devops
+ git checkout -b aws
+git branch
+ git branch -m aws gcp
+git branch
+ exit
